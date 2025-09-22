@@ -2,6 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>TC_SD_01_ValidLogin</name>
+   <name>TC_SD_01_ValidLogin</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
